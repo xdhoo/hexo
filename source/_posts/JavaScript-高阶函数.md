@@ -123,6 +123,6 @@ eg：
 arr = [1, 2, 3, 4];
 result = arr.indexOf(1); //0
 result = arr.lastIndexOf(1); //3
-result = arr.index(5); //-1
+result = arr.indexOf(5); //-1
 
 ```
