@@ -2,6 +2,7 @@
 title: tslint 配置整理
 date: 2018-06-14 15:39:57
 tags: [tslint]
+description: '>>> 关于tslint规则配置整理说明....'
 ---
 ## adjacent-overload-signatures
 ### 说明：强制重载方法必须连续

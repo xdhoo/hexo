@@ -2,6 +2,7 @@
 title: 修改npm默认配置路径
 date: 2018-01-20 09:18:06
 tags: [npm, NodeJs]
+description: '>>> 关于修改npm默认安装路径配置笔记...'
 ---
 ` 
 安装nodejs过程中顺带把npm也安装好了，但是默认会把后续所有全局模块安装在C盘中。

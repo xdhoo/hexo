@@ -2,6 +2,7 @@
 title: webpack 入门
 date: 2018-10-26 15:58:40
 tags: [webpack]
+description: '>>> webpack基本配置入门整理 ...'
 ---
 # webpack打包方式
  - 使用webpack命令打包：` webpack hello.js helllo.bundle.js`

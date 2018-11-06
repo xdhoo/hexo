@@ -2,6 +2,7 @@
 title: Linux 文件传输
 date: 2018-11-02 10:04:46
 tags: [Linux]
+description: '>>>关于Linux服务器与本地Windows文件交互方法整理'
 ---
 # 关于Linux服务器与本地Windows文件交互
 

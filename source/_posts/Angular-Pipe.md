@@ -2,6 +2,7 @@
 title: Angular Pipe
 date: 2018-08-07 13:22:30
 tags: [Angular]
+description: '>>>关于Angular中内置管道的整理，以及自定义管道使用...'
 ---
 
 # Angular 6 内置管道

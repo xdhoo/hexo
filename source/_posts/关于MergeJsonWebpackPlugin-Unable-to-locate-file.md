@@ -2,6 +2,7 @@
 title: '关于MergeJsonWebpackPlugin: Unable to locate file'
 date: 2018-11-06 10:00:41
 tags: [webpack]
+description: '>>> 关于MergeJsonWebpackPlugin: Unable to locate file错误原因及解决方案...'
 ---
 在使用`merge-jsons-webpack-plugin`合并json文件时，之前一直没有错误，但今天打包后突然提示以下错误;即：找不到该路径文件，但该提示路径文件是确定正确且存在的....
 ![merge_json](/img/webpack/merge_json.png)
