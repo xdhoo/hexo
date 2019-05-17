@@ -14,3 +14,12 @@ tags: [ SQL ]
 
 - `POWER`
 POWER(n, m): 幂运算
+
+- `取整`
+  - `round()`: 遵循四舍五入原则取整
+  - `floor()`: 向下取整
+  - `ceiling()`: 向上取整
+
+- `coalesce()` & `nullif`
+**coalesce()**: 返回第一个非null值
+**nullif(exp1,exp2)**: exp1,exp2相等返回null，否则返回exp1
